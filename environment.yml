@@ -6,9 +6,7 @@ dependencies:
   - pandas
   - matplotlib
   - numpy
-  - folium
   - geopy
+  - folium
   - streamlit
   - streamlit-folium
-  - jinja2
-  - branca
