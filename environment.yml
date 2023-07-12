@@ -5,11 +5,9 @@ dependencies:
   - pandas
   - matplotlib
   - numpy
-  - jupyterlab
-  - geopy
   - folium
-  - streamlit
+  - geopy==2.3.0
+  - streamlit==1.22.0
   - streamlit-folium
-  - streamlit>=1.13.0
   - jinja2
   - branca
