@@ -127,7 +127,7 @@ def main():
     st.markdown("<h3 style='text-align: center; color: grey;'>Localização do estabelecimento com o preço mais baixo</h3>", unsafe_allow_html=True)
 
     # Carrega e limpa os dados
-    df = pd.read_csv('/home/ricardoblank/projects/preco_combustiveis/ca-2022-02.csv', sep=';')
+    df = pd.read_csv('ca-2022-02.csv', sep=';')
     df = clean_df(df)
 
     # Mostra os filtro e filtra o df
