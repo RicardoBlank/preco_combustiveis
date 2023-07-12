@@ -6,8 +6,8 @@ dependencies:
   - matplotlib
   - numpy
   - folium
-  - geopy==2.3.0
-  - streamlit==1.22.0
+  - geopy=2.3.0
+  - streamlit=1.22.0
   - streamlit-folium
   - jinja2
   - branca
