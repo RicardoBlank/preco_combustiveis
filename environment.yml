@@ -10,3 +10,6 @@ dependencies:
   - folium
   - streamlit
   - streamlit-folium
+  - streamlit>=1.13.0
+  - jinja2
+  - branca
