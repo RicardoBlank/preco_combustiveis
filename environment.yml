@@ -1,6 +1,7 @@
 name: preco_comb
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - pandas
   - matplotlib
